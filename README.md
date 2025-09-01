@@ -5,11 +5,17 @@ It allows a user to log in with their account number and password, and then carr
 Available Operations :
 
 1.Login with account number and PIN
+
 2.Check the current balance
+
 3.Withdraw money
+
 4.Deposit money
+
 5.Transfer funds to another account
+
 6.View transaction history (work in progress)
+
 7.Logout securely
 
 Technology :
